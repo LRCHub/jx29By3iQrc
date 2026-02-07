@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "SUNRISE日本",
+  "base_artist": "ARASHI",
+  "createdAt": "2026-02-07T06:56:32.022812Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sunrise日本",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/01_Sunrise日本_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SUNRISE日本",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/02_SUNRISE日本_嵐.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SUNRISE日本",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/03_SUNRISE日本_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SUNRISE日本",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/04_SUNRISE日本_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sunrise日本",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_Sunrise日本_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "SUNRISE日本",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_02_SUNRISE日本_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "SUNRISE日本",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_03_SUNRISE日本_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "SUNRISE日本",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_04_SUNRISE日本_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "SUNRISE日本",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_05_SUNRISE日本_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "SUNRISE日本",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_06_SUNRISE日本_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "SUNRISE日本",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_07_SUNRISE日本_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "SUNRISE日本",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_08_SUNRISE日本_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "SUNRISE日本",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_09_SUNRISE日本_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "SUNRISE日本",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_10_SUNRISE日本_嵐.txt"
+    }
+  ]
+}
